@@ -1,6 +1,6 @@
 tt
 aa
 ss
-1
-2
-win1
+3
+mac1
+mac2
